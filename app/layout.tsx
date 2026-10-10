@@ -18,15 +18,15 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://haris-liard.vercel.
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Haris Rashid | Associate Software Engineer & Full-Stack Developer",
+    default: "Haris Rashid | Full Stack Developer & Full-Stack Developer",
     template: "%s | Haris Rashid",
   },
   description:
-    "Portfolio of Haris Rashid, an Associate Software Engineer specializing in Full-Stack Web Development, Next.js, React, Node.js, TypeScript, and AI integrations.",
+    "Portfolio of Haris Rashid, an Full Stack Developer specializing in Full-Stack Web Development, Next.js, React, Node.js, TypeScript, and AI integrations.",
   keywords: [
     "Haris Rashid",
     "Software Engineer",
-    "Associate Software Engineer",
+    "Full Stack Developer",
     "Full-Stack Developer",
     "React Developer",
     "Next.js Portfolio",
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     canonical: "/",
   },
   openGraph: {
-    title: "Haris Rashid | Associate Software Engineer & Full-Stack Developer",
+    title: "Haris Rashid | Full Stack Developer & Full-Stack Developer",
     description:
       "Explore the software engineering portfolio, featured projects, experience, and skills of Haris Rashid.",
     url: siteUrl,
@@ -65,7 +65,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Haris Rashid | Associate Software Engineer & Full-Stack Developer",
+    title: "Haris Rashid | Full Stack Developer & Full-Stack Developer",
     description:
       "Explore the software engineering portfolio, featured projects, experience, and skills of Haris Rashid.",
     images: ["/favicon.png"],
@@ -92,7 +92,7 @@ const jsonLdPerson = {
   "@context": "https://schema.org",
   "@type": "Person",
   name: "Haris Rashid",
-  jobTitle: "Associate Software Engineer",
+  jobTitle: "Full Stack Developer",
   url: siteUrl,
   image: `${siteUrl}/favicon.png`,
   sameAs: [
@@ -111,7 +111,7 @@ const jsonLdPerson = {
     "PostgreSQL",
   ],
   description:
-    "Associate Software Engineer passionate about scalable software solutions, modern web apps, and clean design.",
+    "Full Stack Developer passionate about scalable software solutions, modern web apps, and clean design.",
 };
 
 const jsonLdWebsite = {

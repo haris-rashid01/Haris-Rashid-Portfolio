@@ -28,7 +28,7 @@ export default function About() {
                     >
                         I’m a Software Engineering student at COMSATS University Lahore with a strong interest in building practical, user-focused software. I have experience in frontend and backend development using technologies like React.js, Node.js, Express.js, MongoDB, and Python.
 
-                        I’ve worked across AI automation and full-stack development, and I’m currently working as an Associate Software Engineer at Fusion Cortex, where I contribute to real-world projects and continue to grow as a developer.
+                        I’ve worked across AI automation and full-stack development, and I’m currently working as an Full Stack Developer at Fusion Cortex, where I contribute to real-world projects and continue to grow as a developer.
                     </motion.p>
 
                     <motion.div

@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const experiences = [
     // {
-    //     role: "Associate Software Engineer",
+    //     role: "Full Stack Developer",
     //     company: "Fusion Cortex",
     //     period: "Oct 2024 - Present",
     //     desc: "Worked on AI Automation, Agents, Chatbots, n8n, RAG, Docker, Python.",
