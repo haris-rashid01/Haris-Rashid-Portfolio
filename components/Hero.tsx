@@ -49,7 +49,7 @@ export default function Hero() {
                         transition={{ duration: 1, ease: EASE, delay: 0.6 }}
                         className="text-lg md:text-xl font-medium max-w-sm leading-relaxed text-foreground/80 uppercase"
                     >
-                        ASSOCIATE SOFTWARE ENGINEER
+                        Full Stack Developer
                     </motion.p>
 
                     <div className="flex flex-col md:flex-row items-start md:items-center gap-8 md:gap-12">

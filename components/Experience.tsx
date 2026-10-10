@@ -3,24 +3,24 @@
 import { motion } from "framer-motion";
 
 const experiences = [
-    {
-        role: "Associate Software Engineer",
-        company: "Fusion Cortex",
-        period: "Oct 2024 - Present",
-        desc: "Worked on AI Automation, Agents, Chatbots, n8n, RAG, Docker, Python.",
-    },
+    // {
+    //     role: "Associate Software Engineer",
+    //     company: "Fusion Cortex",
+    //     period: "Oct 2024 - Present",
+    //     desc: "Worked on AI Automation, Agents, Chatbots, n8n, RAG, Docker, Python.",
+    // },
     {
         role: "MERN Stack Intern",
         company: "KnowaTech",
         period: "Aug 2024 - Sep 2024",
         desc: "Worked on ReactJS, NodeJS, ExpressJS, MongoDB, FastAPI.",
     },
-    {
-        role: "AI Programmer Intern",
-        company: "AppsGenii Technologies",
-        period: "Jun 2024 - Aug 2024",
-        desc: "Python, Django, Object Detection.",
-    },
+    // {
+    //     role: "AI Programmer Intern",
+    //     company: "AppsGenii Technologies",
+    //     period: "Jun 2024 - Aug 2024",
+    //     desc: "Python, Django, Object Detection.",
+    // },
     {
         role: "Web Dev Intern",
         company: "Qwerty Experts",
